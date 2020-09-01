@@ -1,0 +1,13 @@
+C:\Users\clara.mahlgard\Documents\GitHub\hello-tryout\Hello-tryout\bin\Debug\netcoreapp3.1\hey.exe
+C:\Users\clara.mahlgard\Documents\GitHub\hello-tryout\Hello-tryout\bin\Debug\netcoreapp3.1\hey.deps.json
+C:\Users\clara.mahlgard\Documents\GitHub\hello-tryout\Hello-tryout\bin\Debug\netcoreapp3.1\hey.runtimeconfig.json
+C:\Users\clara.mahlgard\Documents\GitHub\hello-tryout\Hello-tryout\bin\Debug\netcoreapp3.1\hey.runtimeconfig.dev.json
+C:\Users\clara.mahlgard\Documents\GitHub\hello-tryout\Hello-tryout\bin\Debug\netcoreapp3.1\hey.dll
+C:\Users\clara.mahlgard\Documents\GitHub\hello-tryout\Hello-tryout\bin\Debug\netcoreapp3.1\hey.pdb
+C:\Users\clara.mahlgard\Documents\GitHub\hello-tryout\Hello-tryout\obj\Debug\netcoreapp3.1\hey.csprojAssemblyReference.cache
+C:\Users\clara.mahlgard\Documents\GitHub\hello-tryout\Hello-tryout\obj\Debug\netcoreapp3.1\hey.AssemblyInfoInputs.cache
+C:\Users\clara.mahlgard\Documents\GitHub\hello-tryout\Hello-tryout\obj\Debug\netcoreapp3.1\hey.AssemblyInfo.cs
+C:\Users\clara.mahlgard\Documents\GitHub\hello-tryout\Hello-tryout\obj\Debug\netcoreapp3.1\hey.csproj.CoreCompileInputs.cache
+C:\Users\clara.mahlgard\Documents\GitHub\hello-tryout\Hello-tryout\obj\Debug\netcoreapp3.1\hey.dll
+C:\Users\clara.mahlgard\Documents\GitHub\hello-tryout\Hello-tryout\obj\Debug\netcoreapp3.1\hey.pdb
+C:\Users\clara.mahlgard\Documents\GitHub\hello-tryout\Hello-tryout\obj\Debug\netcoreapp3.1\hey.genruntimeconfig.cache
